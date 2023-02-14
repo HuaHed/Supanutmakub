@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+
+}        
+h1{
+    size:30px;
+}
+img{
+background-color: blue;
+
+}
+.mushroom{
+
+    background-color: whitesmoke;
+}
+.grapes{
+background-color: aqua;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: red;
+}
+
